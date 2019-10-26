@@ -81,3 +81,5 @@ config.json
 Session.vim
 .netrwhist
 *~
+
+/hacktober
